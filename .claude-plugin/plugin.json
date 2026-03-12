@@ -1,0 +1,8 @@
+{
+  "name": "humanizer-plugin",
+  "description": "Removes AI writing patterns from text. Makes writing sound natural and human. Based on Wikipedia's Signs of AI Writing guide.",
+  "version": "2.2.0",
+  "author": {
+    "name": "Your Team"
+  }
+}
