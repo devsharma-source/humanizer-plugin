@@ -6,7 +6,10 @@
   "plugins": [
     {
       "name": "humanizer-plugin",
-      "source": ".",
+      "source": {
+        "type": "github",
+        "repo": "devsharma-source/humanizer-plugin"
+      },
       "description": "Removes AI writing patterns from text. Makes writing sound natural and human-written."
     }
   ]
